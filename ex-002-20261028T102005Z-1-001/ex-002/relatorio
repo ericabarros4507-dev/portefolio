@@ -1,0 +1,38 @@
+### Missão 4: O Relatório
+
+Entreguem as respostas:
+
+1. Os erros:
+   Quais foram os 6 erros que encontraram no `erros.html`? Para cada um, escrevam a linha e o que corrigiram.
+   Resposta:
+
+   -linha 5 title nao estava fechado no final
+
+
+   -linha 8 no final era para ficar fechado com h1 nao h2 
+
+
+   -linha 9 o em deveria ser fechado antes do strong 
+
+
+   -linha 12 o p nao estava fechado no final
+
+
+   -linha 14 faltava so a barra para fechar h2 
+
+
+
+   -linha 17 faltava so o sinal - para poder criar um comentario
+
+
+
+
+
+
+2. A página em branco:
+   Porque é que o `erros.html` aparecia todo em branco no início?
+   Resposta: [Preencher]
+
+3. Os títulos:
+   Na receita, porque é que os passos são `h3` e não `h2`?
+   Resposta: [Preencher]
