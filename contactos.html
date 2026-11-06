@@ -18,6 +18,63 @@
                     </nav>
 
                 </header>
+                <main>
+                    <section>
+                        <h2>envio uma mensagem</h2>
+                        <p>
+                            se preferir,pode enviar uma mensagem diretamente atraves do formulario abaixo:
+                        </p>
+
+                        <form action="#" method="get">
+                            <labe for="nomecompleto">nome completo</label><br />
+                            <input type="text" placeholder="insira o seu nome completo" id="nomecompleto"  name="nomecompleto"/><br />
+                            <label for="datadenascimento">data de nascimento</label><br />
+                            <input type="date" id="datadenascimento" name="datadenascimento" /><br />
+                            <label for="password">password</label><br />
+                            <input type="password" placeholder="insira a sua palavra passe" id="password" name="password" /><br />
+
+                            <select>
+                            <option value="m">masculino</option> 
+                            <option value="f">feminino</option> 
+                            </select><br />
+                            
+                            <textarea 
+                            id="descricao"
+                            name="descricao"
+                            placeholder="escreva a tua mensagem"
+                            rows="6"
+                            cols="40"
+                             >
+
+                            </textarea><br />
+                            <label for="telefone">telefone</label>
+                            <input
+                            type="radio"
+                            id="telefone"
+                            name="preferencia"
+                            checked
+
+                            />
+                            <label for="email">email</label>
+                            <input
+                            type="radio"
+                            id="email"
+                            name="preferencia"
+                            /><br/>
+                            <label for="">autorizacao para uso dos dados introduzidos</label>
+                            <input id="autorizacao" name="autorizacao" type="checkbox"/>
+
+                            <button type="submit">enviar</button>
+                            <button type="reset">limpar</button>
+
+
+                            
+                             <button>enviar</button>
+
+
+                        </form>
+                    </section>
+                </main>
     </body>
  </html>
             
